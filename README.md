@@ -15,8 +15,9 @@ Graphs
 Heaps
 Hash Tables
 Tries
-Algorithms:
 
+
+Algorithms:
 Sorting
 Searching
 Dynamic Programming (DP)

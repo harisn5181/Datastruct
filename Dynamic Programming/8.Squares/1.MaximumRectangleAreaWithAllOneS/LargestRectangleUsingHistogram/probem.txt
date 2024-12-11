@@ -1,0 +1,2 @@
+Given a Histogram Find the largest area of Histogram,suppose a Histogram is like below
+[1,2,3,4,5]
